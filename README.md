@@ -184,4 +184,4 @@ Esto creará una carpeta con el nombre del proyecto y dentro ya tendremos un pro
 ## 9 - Despedida
 Espero que esta guía les haya servido!
 
-Gracias por mirar y por Aprender!
+Gracias por mirar y por Aprender! Beso
